@@ -1,0 +1,3 @@
+﻿  Bai166.cpp
+C:\Users\tgdvu\OneDrive\Documents\Visual Studio 2022\ĐỆ QUY\Bai001\Bai166\Bai166.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai166.vcxproj -> C:\Users\tgdvu\OneDrive\Documents\Visual Studio 2022\ĐỆ QUY\Bai001\x64\Debug\Bai166.exe

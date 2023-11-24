@@ -1,0 +1,5 @@
+﻿  Bai001.cpp
+C:\Users\tgdvu\OneDrive\Documents\Visual Studio 2022\ĐỆ QUY\Bai001\Bai001\Bai001.cpp(11,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tgdvu\OneDrive\Documents\Visual Studio 2022\ĐỆ QUY\Bai001\Bai001\Bai001.cpp(18,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tgdvu\OneDrive\Documents\Visual Studio 2022\ĐỆ QUY\Bai001\Bai001\Bai001.cpp(19,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Bai001.vcxproj -> C:\Users\tgdvu\OneDrive\Documents\Visual Studio 2022\ĐỆ QUY\Bai001\x64\Debug\Bai001.exe
