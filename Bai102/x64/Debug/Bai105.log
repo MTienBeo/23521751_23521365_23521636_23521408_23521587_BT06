@@ -1,0 +1,6 @@
+﻿  Bai102.cpp
+F:\NMLT\nmlt\23521751_BT06\Bai105\Bai102.cpp(43,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\NMLT\nmlt\23521751_BT06\Bai105\Bai102.cpp(45,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\NMLT\nmlt\23521751_BT06\Bai105\Bai102.cpp(46,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+F:\NMLT\nmlt\23521751_BT06\Bai105\Bai102.cpp(54,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Bai105.vcxproj -> F:\NMLT\nmlt\23521751_BT06\x64\Debug\Bai102.exe

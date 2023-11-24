@@ -1,0 +1,3 @@
+﻿  Bai107.cpp
+F:\NMLT\nmlt\23521751_BT06\Bai107\Bai107.cpp(18,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bai107.vcxproj -> F:\NMLT\nmlt\23521751_BT06\x64\Debug\Bai107.exe
