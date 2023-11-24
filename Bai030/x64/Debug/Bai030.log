@@ -1,0 +1,4 @@
+﻿  Bai030.cpp
+C:\Users\ptay0\source\repos\UIT_23521408-BT06\Bai030\Bai030.cpp(23,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ptay0\source\repos\UIT_23521408-BT06\Bai030\Bai030.cpp(24,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Bai030.vcxproj -> C:\Users\ptay0\source\repos\UIT_23521408-BT06\x64\Debug\Bai030.exe
