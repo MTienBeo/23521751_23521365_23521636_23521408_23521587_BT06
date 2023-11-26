@@ -1,0 +1,6 @@
+﻿  Bai168.cpp
+D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\Bai168\Bai168.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\Bai168\Bai168.cpp(19,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\Bai168\Bai168.cpp(13,9): warning C4101: 'k': unreferenced local variable
+D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\Bai168\Bai168.cpp(14,16): warning C4101: 'x': unreferenced local variable
+  Bai168.vcxproj -> D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\x64\Debug\Bai168.exe

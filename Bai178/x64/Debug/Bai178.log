@@ -1,0 +1,4 @@
+﻿  Bai178.cpp
+D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\Bai178\Bai178.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\Bai178\Bai178.cpp(17,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai178.vcxproj -> D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\x64\Debug\Bai178.exe

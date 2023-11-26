@@ -1,0 +1,4 @@
+﻿  Bai243.cpp
+D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\Bai243\Bai243.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\Bai243\Bai243.cpp(21,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai243.vcxproj -> D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\x64\Debug\Bai243.exe

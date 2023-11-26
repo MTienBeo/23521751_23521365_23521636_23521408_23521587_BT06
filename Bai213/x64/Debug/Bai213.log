@@ -1,0 +1,4 @@
+﻿  Bai213.cpp
+D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\Bai213\Bai213.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\Bai213\Bai213.cpp(51): warning C4715: 'TongChan': not all control paths return a value
+  Bai213.vcxproj -> D:\Bài tập\Kiểu cấu trúc\UIT_23521636_BT06\x64\Debug\Bai213.exe
